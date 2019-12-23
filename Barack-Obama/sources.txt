@@ -1,0 +1,8 @@
+bbc.com.txt
+https://www.bbc.com/news/world-us-canada-33646542
+
+cnn.com.txt
+https://edition.cnn.com/2016/12/26/politics/axe-files-obama-transcript/index.html
+
+abcnews.go.com.txt
+https://abcnews.go.com/Politics/week-transcript-president-barack-obama/story?id=44630949
