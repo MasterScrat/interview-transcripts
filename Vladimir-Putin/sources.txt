@@ -1,0 +1,8 @@
+ft.com.txt
+https://www.ft.com/content/878d2344-98f0-11e9-9573-ee5cbb98ed36
+
+npr.org.txt
+https://www.npr.org/news/specials/putin/nprinterview.html
+
+alarabiya.net.txt
+https://english.alarabiya.net/en/News/world/2019/10/13/Full-transcript-of-Russian-president-Vladimir-Putin-interview-with-Al-Arabiya.html
